@@ -1,0 +1,9 @@
+# Ignore the dist directory in the backend
+backend/dist
+
+# Ignore node_modules directory in the backend
+backend/node_modules/
+
+node_modules/
+
+dist/

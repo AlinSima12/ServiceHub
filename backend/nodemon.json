@@ -1,0 +1,6 @@
+{
+    "verbose": true,
+    "ext": "ts,json",
+    "ignore": ["dist/*", "node_modules/*"],
+    "exec": "npx tsc && node dist/index.js"
+}
