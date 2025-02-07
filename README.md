@@ -1,4 +1,4 @@
-readme_content = """# ServiceHub
+# ServiceHub
 
 ## Description
 This application serves as a platform that connects skilled local craftsmen with clients who need specific services. It aims to bridge the gap between demand and supply by allowing users to request services and professionals to fulfill them efficiently. The platform ensures reliability through a review system and facilitates communication between clients and craftsmen.
